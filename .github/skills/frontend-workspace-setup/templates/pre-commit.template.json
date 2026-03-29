@@ -1,0 +1,13 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "type": "command",
+        "command": "node .github/hooks/scripts/validate-component.js",
+        "windows": "node .github/hooks/scripts/validate-component.js",
+        "timeout": 10,
+        "cwd": "."
+      }
+    ]
+  }
+}

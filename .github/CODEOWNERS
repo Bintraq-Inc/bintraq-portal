@@ -1,0 +1,27 @@
+# Global owners
+
+* @your-org/maintainers
+
+## CI/CD workflows
+
+/.github/workflows/ @your-org/devops @your-org/maintainers
+
+## Security
+
+/SECURITY.md @your-org/security @your-org/maintainers
+/.github/dependabot.yml @your-org/security @your-org/maintainers
+
+## Dependencies
+
+/package.json @your-org/maintainers @your-org/security
+/package-lock.json @your-org/maintainers
+
+## Configuration
+
+/tsconfig*.json @your-org/maintainers
+/vite.config.ts @your-org/maintainers
+/eslint.config.js @your-org/maintainers
+
+## Source code
+
+/src/ @your-org/frontend @your-org/maintainers
