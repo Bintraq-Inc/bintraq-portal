@@ -7,7 +7,6 @@
 Report vulnerabilities via:
 
 1. GitHub Security Advisories (preferred)
-2. Email: security@[your-domain].com with "SECURITY" in subject line
 
 ### What to Include
 
