@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@emnapi/core": "^1.9.2",
-    "@emnapi/runtime": "^1.9.2",
+    "@emnapi/runtime": "^1.10.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
     "react-router-dom": "^7.14.0"
